@@ -10,9 +10,10 @@ public class TC001 {
 
         // Positive testing
 
-        // This is not going into smoke test
+        // Adding this to smoke test
 
-        // more useful information
+        // Useful //more useful information
+
     }
 }
 
